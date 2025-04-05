@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClaraTalkNew_0: 4658589952506548017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

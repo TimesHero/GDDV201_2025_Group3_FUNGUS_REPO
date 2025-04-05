@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClaraShockedNew_0: -2680121096757529770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
