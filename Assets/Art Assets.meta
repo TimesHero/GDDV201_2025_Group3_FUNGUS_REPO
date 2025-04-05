@@ -1,17 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Audio.meta
 guid: b7a3cdeb0adbfbe4b92ef08dd4e96702
 ========
 guid: 1fe469d4f15fabc4d8e04c0c77911759
 >>>>>>>> lisa/art:Assets/Art Assets.meta
-=======
-<<<<<<<< HEAD:Assets/Sprites.meta
-guid: 1ccd02dd250b5bf49bbed3cfda002e5e
-========
-guid: c7afc023d44ce1b4daeb72d641a1d0bf
->>>>>>>> lisa/art:Assets/Audio.meta
->>>>>>> lisa/art
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
