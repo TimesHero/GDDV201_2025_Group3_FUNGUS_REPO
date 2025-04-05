@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_Name
-      value: Skipper
+      value: Clara
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_RootOrder
@@ -165,19 +165,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameText
-      value: Skipper
+      value: Clara
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.b
-      value: .949019611
+      value: 0.9490196
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.g
-      value: .650980413
+      value: 0.6509804
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.r
-      value: .294117659
+      value: 0.29411766
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: soundEffect
@@ -206,7 +206,7 @@ PrefabInstance:
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: 'portraits.Array.data[0]'
       value: 
-      objectReference: {fileID: 21300000, guid: 3c64e30cbefbe4e768ef68d85c85061e, type: 3}
+      objectReference: {fileID: 5170590086339672585, guid: 988f4e07c18ef6147aee1e81ab62a7f3, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -258,19 +258,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameText
-      value: Badly Drawn Bear
+      value: Vivi
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.b
-      value: .168685108
+      value: 0.16868511
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.g
-      value: .347840369
+      value: 0.34784037
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.r
-      value: .95588237
+      value: 0.9558824
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: soundEffect
@@ -331,7 +331,7 @@ Transform:
   m_GameObject: {fileID: 307931410}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.73, y: -4.873, z: 0}
+  m_LocalPosition: {x: -3.76, y: -4.873, z: 0}
   m_LocalScale: {x: 0.19355325, y: 0.19355325, z: 0.19355325}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -381,7 +381,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 6b100daff28d04f69a49015f83966425, type: 3}
+  m_Sprite: {fileID: 5021072819838414423, guid: 23473c4e47117b44d97fa2dfe79366b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -402,7 +402,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_Name
-      value: Shay
+      value: Ash
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_RootOrder
@@ -438,19 +438,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameText
-      value: Shay
+      value: Ash
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.b
-      value: .125865042
+      value: 0.12586504
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.g
-      value: .405372232
+      value: 0.40537223
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameColor.r
-      value: .713235259
+      value: 0.71323526
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: soundEffect
@@ -495,7 +495,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_Name
-      value: Ciara
+      value: You
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_RootOrder
@@ -774,7 +774,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ed14cc18e1e37449eb670f2613314102, type: 3}
+  m_Sprite: {fileID: 2519252182790738156, guid: 7981feec0f50f414794f5e47e71a2fea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1815,8 +1815,9 @@ MonoBehaviour:
     width: 1939.0176
     height: 2009.5223
   selectedBlocks:
-  - {fileID: 1831099578}
-  selectedCommands: []
+  - {fileID: 1831099645}
+  selectedCommands:
+  - {fileID: 1831099642}
   variables:
   - {fileID: 1831099569}
   description: 'This is an example of a short Visual Novel / RPG
@@ -2550,7 +2551,7 @@ MonoBehaviour:
   storyText: No, I could not!{wc} Now be off with you!
   description: 
   character: {fileID: 339869593}
-  portrait: {fileID: 21300000, guid: 3c64e30cbefbe4e768ef68d85c85061e, type: 3}
+  portrait: {fileID: 5170590086339672585, guid: 988f4e07c18ef6147aee1e81ab62a7f3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2584,7 +2585,7 @@ MonoBehaviour:
     Couldn''t you spare just one? '
   description: 
   character: {fileID: 1712414755}
-  portrait: {fileID: 21300000, guid: 05ccd53483a554ca9b31f685fa76154a, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2616,7 +2617,7 @@ MonoBehaviour:
     We''ll see about that!'
   description: 
   character: {fileID: 339869593}
-  portrait: {fileID: 21300000, guid: 3c64e30cbefbe4e768ef68d85c85061e, type: 3}
+  portrait: {fileID: 5170590086339672585, guid: 988f4e07c18ef6147aee1e81ab62a7f3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2781,10 +2782,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: 'I''m starving! I wonder if there''s any fish in that pool?{wc}
-
-    I
-    better be careful though, I might not be the only person in these woods...'
+  storyText: You check your phone again. No new texts. Just the sounds of wind pushing
+    through the grass.
   description: 
   character: {fileID: 1712414755}
   portrait: {fileID: 21300000, guid: 05ccd53483a554ca9b31f685fa76154a, type: 3}
@@ -2811,8 +2810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  storyText: Emerging from the forest, she found herself at a beautiful mountain
-    stream.
+  storyText: You're early. The message said "meet me by the trees".
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2860,13 +2858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 0
-  storyText: 'For a day and a night, Ciara fled through the dark forest.{wc}
-
-    She
-    didn''t dare to stop for fear of {color=red}The Hunter{/color}, but her grumbling
-    stomach told her she would need to find food soon.
-
-'
+  storyText: ' Riverdale park. 10:43 PM.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4089,7 +4081,7 @@ MonoBehaviour:
   storyText: What! This is an outrage! Mind your own busin...
   description: 
   character: {fileID: 339869593}
-  portrait: {fileID: 21300000, guid: 3c64e30cbefbe4e768ef68d85c85061e, type: 3}
+  portrait: {fileID: 5170590086339672585, guid: 988f4e07c18ef6147aee1e81ab62a7f3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4121,7 +4113,7 @@ MonoBehaviour:
     Pay him no attention.'
   description: 
   character: {fileID: 338947448}
-  portrait: {fileID: 21300000, guid: f7484a661774243b193bebc6e3ae5120, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
