@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviAngryCrop_0: -5968299734044682351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

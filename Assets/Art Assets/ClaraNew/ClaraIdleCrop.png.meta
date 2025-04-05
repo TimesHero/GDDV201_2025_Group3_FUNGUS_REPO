@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClaraIdleCrop_0: 3800521160578732523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

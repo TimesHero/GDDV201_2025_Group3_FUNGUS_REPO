@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClaraAngryCrop_0: -2539852679690798731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

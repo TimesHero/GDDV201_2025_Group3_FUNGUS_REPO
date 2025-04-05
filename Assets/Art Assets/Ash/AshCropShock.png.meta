@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AshCropShock_0: 4124636099582189908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

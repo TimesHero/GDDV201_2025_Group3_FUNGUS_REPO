@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviHappyCrop_0: -8715708909236196609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
