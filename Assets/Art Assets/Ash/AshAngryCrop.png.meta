@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AshAngryCrop_0: 2556733811250997651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
