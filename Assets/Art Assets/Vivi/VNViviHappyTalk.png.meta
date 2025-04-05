@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviHappyTalk_0: 4861739877362615174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

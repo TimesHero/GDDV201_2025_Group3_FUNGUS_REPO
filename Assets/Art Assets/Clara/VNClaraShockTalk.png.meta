@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNClaraShockTalk_0: -3041680978062680074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviHappyIdle_0: 1054171623258148788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNAshShock_0: 6923556055227091707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviAngryTalk_0: -7704584335185382015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

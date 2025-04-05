@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VNViviShocked_0: 3859290304243584370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
