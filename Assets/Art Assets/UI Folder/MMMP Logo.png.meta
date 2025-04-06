@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MMMP Logo_0: 8568674797566459774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
